@@ -30,3 +30,4 @@ def create_menu(kwargs, actions):
 
 if __name__=="__main__":
     main()
+    print("Commit")
